@@ -369,3 +369,4 @@ with ZipFile('FileSystem.zip', 'a') as myzip:
         print("root     pts/1     " + str(formatted_date) + ' ' + time_now)
 
 
+## РАбота защищена
